@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">currency_converter</string>
+
+    <string-array name="currencyArray">
+        <item>Argentine Peso</item>
+        <item>Australian Dollar</item>
+        <item>Bahraini Dinar</item>
+        <item>Botswana Pula</item>
+        <item>Brazilian Real</item>
+        <item>British Pound</item>
+        <item>Bruneian Dollar</item>
+        <item>Bulgarian Lev</item>
+        <item>Canadian Dollar</item>
+        <item>Chilean Peso</item>
+        <item>Chinese Yuan Renminbi</item>
+        <item>Colombian Peso</item>
+        <item>Croatian Kuna</item>
+        <item>Czech Koruna</item>
+        <item>Danish Krone</item>
+        <item>Emirati Dirham</item>
+        <item>Euro</item>
+        <item>Hong Kong Dollar</item>
+        <item>Hungarian Forint</item>
+        <item>Icelandic Krona</item>
+        <item>Indian Rupee</item>
+        <item>Indonesian Rupiah</item>
+        <item>Iranian Rial</item>
+        <item>Israeli Shekel</item>
+        <item>Japanese Yen</item>
+        <item>Kazakhstani Tenge</item>
+        <item>Kuwaiti Dinar</item>
+        <item>Libyan Dinar</item>
+        <item>Malaysian Ringgit</item>
+        <item>Mauritian Rupee</item>
+        <item>Mexican Peso</item>
+        <item>Nepalese Rupee</item>
+        <item>New Zealand Dollar</item>
+        <item>Norwegian Krone</item>
+        <item>Omani Rial</item>
+        <item>Pakistani Rupee</item>
+        <item>Philippine Peso</item>
+        <item>Polish Zloty</item>
+        <item>Qatari Riyal</item>
+        <item>Romanian New Leu</item>
+        <item>Russian Ruble</item>
+        <item>Saudi Arabian Riyal</item>
+        <item>Singapore Dollar</item>
+        <item>South African Rand</item>
+        <item>South Korean Won</item>
+        <item>Sri Lankan Rupee</item>
+        <item>Swedish Krona</item>
+        <item>Swiss Franc</item>
+        <item>Taiwan New Dollar</item>
+        <item>Thai Baht</item>
+        <item>Trinidadian Dollar</item>
+        <item>Turkish Lira</item>
+        <item>Venezuelan Bolivar</item>
+        <item>US Dollar</item>
+    </string-array>
+
+    <integer-array name="currencyRateArray">
+        <item>280556</item>
+        <item>13436</item>
+        <item>3760</item>
+        <item>103241</item>
+        <item>37293</item>
+        <item>7556</item>
+        <item>13510</item>
+        <item>16888</item>
+        <item>13183</item>
+        <item>6327051</item>
+        <item>64406</item>
+        <item>28958701</item>
+        <item>63692</item>
+        <item>222216</item>
+        <item>64325</item>
+        <item>36725</item>
+        <item>8635</item>
+        <item>78495</item>
+        <item>2786185</item>
+        <item>1079780</item>
+        <item>679975</item>
+        <item>139296812</item>
+        <item>423400546</item>
+        <item>36345</item>
+        <item>1104961</item>
+        <item>3376715</item>
+        <item>3031</item>
+        <item>13590</item>
+        <item>39967</item>
+        <item>349710</item>
+        <item>207761</item>
+        <item>1093059</item>
+        <item>14408</item>
+        <item>81686</item>
+        <item>3845</item>
+        <item>1196644</item>
+        <item>534681</item>
+        <item>37019</item>
+        <item>36400</item>
+        <item>40267</item>
+        <item>634758</item>
+        <item>37500</item>
+        <item>13510</item>
+        <item>134755</item>
+        <item>11047439</item>
+        <item>1597417</item>
+        <item>88634</item>
+        <item>9966</item>
+        <item>301514</item>
+        <item>326645</item>
+        <item>67272</item>
+        <item>47186</item>
+        <item>99875</item>
+        <item>10000</item>
+    </integer-array>
+</resources>
