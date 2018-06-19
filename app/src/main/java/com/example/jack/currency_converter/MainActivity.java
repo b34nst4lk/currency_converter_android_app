@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
         assignViews();
         setupSpinners();
         setupEditText();
-        getActionBar().setTitle("Currency Converter");
     }
 
     private void assignViews() {
